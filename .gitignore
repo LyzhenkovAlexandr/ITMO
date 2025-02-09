@@ -349,3 +349,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 /.idea/
+
+# Do not store .class files
+*.class
+**/.DS_Store
